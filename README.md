@@ -22,10 +22,7 @@ React Medellin se rige por el codigo de conducta de la [comunidad de Javascript]
 ## Cómo Contribuir?
 Encontraste un error en este repositorio? Quieres proponer una mejora? Te invitamos a que crees un Pull Request!
 
-## Contacto
-Puedes abrir un issue o escribir directamente a alejonanez@gmail.com
-
-## Contributors
+## Contribuidores
 
 Gracias a todas las personas que han contribuido a React Medellin! ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
@@ -34,6 +31,9 @@ Gracias a todas las personas que han contribuido a React Medellin! ([emoji key](
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Este proyecto sigue la especificación de [all-contributors](https://github.com/kentcdodds/all-contributors). Todos los contribuyentes son bienvenidos!
+Este proyecto sigue la especificación de [all-contributors](https://github.com/kentcdodds/all-contributors). Todos los contribuidores son bienvenidos!
 
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
+
+## Contacto
+Puedes abrir un issue o escribir directamente a alejonanez@gmail.com
