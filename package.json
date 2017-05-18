@@ -12,7 +12,8 @@
     "all-contributors:generate": "all-contributors generate",
     "all-contributors:init": "all-contributors init"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "all-contributors-cli": "^4.3.0"
   }
 }
