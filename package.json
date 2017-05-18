@@ -6,5 +6,13 @@
   "repository": "git@github.com:react-medellin/meetup.git",
   "author": "Alejandro Nanez <alejonanez@gmail.com>",
   "license": "MIT",
-	"private": true
+  "private": true,
+  "scripts": {
+    "all-contributors:add": "all-contributors add",
+    "all-contributors:generate": "all-contributors generate",
+    "all-contributors:init": "all-contributors init"
+  },
+  "dependencies": {
+    "all-contributors-cli": "^4.3.0"
+  }
 }
