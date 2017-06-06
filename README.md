@@ -1,5 +1,5 @@
 # React Medellin
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Code of Conduct][coc-badge]](#código-de-conducta)
 
@@ -27,8 +27,8 @@ Encontraste un error en este repositorio? Quieres proponer una mejora? Te invita
 Gracias a todas las personas que han contribuido a React Medellin! ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars0.githubusercontent.com/u/464978?v=3" width="100px;"/><br /><sub>Alejandro Ñáñez Ortiz</sub>](http://co.linkedin.com/in/alejandronanez/)<br />[📖](https://github.com/react-medellin/meetup/commits?author=alejandronanez "Documentation") [📋](#eventOrganizing-alejandronanez "Event Organizing") [🔍](#fundingFinding-alejandronanez "Funding Finding") [📢](#talk-alejandronanez "Talks") |
-| :---: |
+| [<img src="https://avatars0.githubusercontent.com/u/464978?v=3" width="100px;"/><br /><sub>Alejandro Ñáñez Ortiz</sub>](http://co.linkedin.com/in/alejandronanez/)<br />[📖](https://github.com/react-medellin/meetup/commits?author=alejandronanez "Documentation") [📋](#eventOrganizing-alejandronanez "Event Organizing") [🔍](#fundingFinding-alejandronanez "Funding Finding") [📢](#talk-alejandronanez "Talks") | [<img src="https://avatars3.githubusercontent.com/u/281742?v=3" width="100px;"/><br /><sub>Huge</sub>](http://hugeinc.com)<br />[💵](#financial-hugeinc "Financial") | [<img src="https://avatars0.githubusercontent.com/u/5565957?v=3" width="100px;"/><br /><sub>Jorge Alejandro Benjumea</sub>](https://github.com/AlejandroBenjumea)<br />[📢](#talk-AlejandroBenjumea "Talks") | [<img src="https://avatars1.githubusercontent.com/u/3025600?v=3" width="100px;"/><br /><sub>Jose Luis Naranjo</sub>](https://co.linkedin.com/in/josenaranjo/en)<br />[📋](#eventOrganizing-josenaranjo "Event Organizing") [🔍](#fundingFinding-josenaranjo "Funding Finding") [📢](#talk-josenaranjo "Talks") |
+| :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Este proyecto sigue la especificación de [all-contributors](https://github.com/kentcdodds/all-contributors). Todos los contribuidores son bienvenidos!

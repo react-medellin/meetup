@@ -18,6 +18,35 @@
         "fundingFinding",
         "talk"
       ]
+    },
+    {
+      "login": "hugeinc",
+      "name": "Huge",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/281742?v=3",
+      "profile": "http://hugeinc.com",
+      "contributions": [
+        "financial"
+      ]
+    },
+    {
+      "login": "AlejandroBenjumea",
+      "name": "Jorge Alejandro Benjumea",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5565957?v=3",
+      "profile": "https://github.com/AlejandroBenjumea",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "josenaranjo",
+      "name": "Jose Luis Naranjo",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3025600?v=3",
+      "profile": "https://co.linkedin.com/in/josenaranjo/en",
+      "contributions": [
+        "eventOrganizing",
+        "fundingFinding",
+        "talk"
+      ]
     }
   ]
 }
