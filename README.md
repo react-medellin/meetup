@@ -6,13 +6,16 @@
 Repositorio oficial de React Medellin https://meetup.com/React-Medellin
 
 ## Meetups
-1. TBD
+1. **Bienvenidos a React Medellín**
+- Introducción a React
+- Publiquemos una librería de componentes en React
+[Ver en Meetup.com](https://www.meetup.com/React-Medellin/events/240587795/)
 
 ## Estás interesado en dar una charla?
 Todas las personas son bienvenidas al momento de dar una charla **sin importa su experiencia**. Nos alegra que hayas tomado esta iniciativa! Crea un issue [aquí](https://github.com/react-medellin/meetup/issues) y nos pondremos en contacto contigo.
 
 ## Sponsors
-1. TBD
+1. [Huge Inc](https://www.hugeinc.com) - Food and Drinks
 
 React Medellin es una organización sin ánimo de lucro. Todos los patrocinios son utilizados para cubrir costos de las charlas. Si quieres ser un patrocinador, ponte en contacto con nosotros [aquí](https://github.com/react-medellin/meetup#contacto).
 
