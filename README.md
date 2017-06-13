@@ -10,7 +10,7 @@ Repositorio oficial de React Medellin https://meetup.com/React-Medellin
 - Introducción a React
 - Publiquemos una librería de componentes en React
 [Ver en Meetup.com](https://www.meetup.com/React-Medellin/events/240587795/)
-- [Links!](meetup/junio-2017.md)
+- [Links!](meetups/junio-2017.md)
 
 ## Estás interesado en dar una charla?
 Todas las personas son bienvenidas al momento de dar una charla **sin importa su experiencia**. Nos alegra que hayas tomado esta iniciativa! Crea un issue [aquí](https://github.com/react-medellin/meetup/issues) y nos pondremos en contacto contigo.
