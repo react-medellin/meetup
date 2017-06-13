@@ -13,7 +13,7 @@
 
 
 ## Oferta de Trabajo
-```
+
 Zemoga, a leader agency in digital innovation is looking for talented front-end developers with strong skills on  HTML/CSS/JS and focused on MV* frameworks such as ReactJS/Redux, AngularJS, Ember or any other similar framework (React/Redux is a big plus).
 
 Other desirable technologies:
@@ -30,4 +30,3 @@ Other desirable technologies:
 The project is focused on providing solutions for a recognized TV/Movies based subscription platform located in USA so an intermediate/advanced English level is essential.
 
 You can send us your CV and contact information to jobs@zemoga.com using the subject "FED React Meetup Candidate"
-```
