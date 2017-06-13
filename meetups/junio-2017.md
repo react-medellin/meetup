@@ -29,4 +29,4 @@ Other desirable technologies:
 
 The project is focused on providing solutions for a recognized TV/Movies based subscription platform located in USA so an intermediate/advanced English level is essential.
 
-You can send us your CV and contact information to jobs@zemoga.com using the subject "FED React Meetup Candidate"
+**You can send us your CV and contact information to jobs@zemoga.com using the subject "FED React Meetup Candidate"**
