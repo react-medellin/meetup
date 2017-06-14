@@ -1,7 +1,7 @@
 # React Medellin
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Code of Conduct][coc-badge]](#código-de-conducta)
+[![Code of Conduct][coc-badge]](#código-de-conducta) [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/react-medellin/Lobby)
 
 Repositorio oficial de React Medellin https://meetup.com/React-Medellin
 
@@ -14,6 +14,9 @@ Repositorio oficial de React Medellin https://meetup.com/React-Medellin
 
 ## Estás interesado en dar una charla?
 Todas las personas son bienvenidas al momento de dar una charla **sin importa su experiencia**. Nos alegra que hayas tomado esta iniciativa! Crea un issue [aquí](https://github.com/react-medellin/meetup/issues) y nos pondremos en contacto contigo.
+
+## Únete a nuestro chat!
+Encuéntranos en [Gitter](https://gitter.im/react-medellin/Lobby)!
 
 ## Sponsors
 1. [Huge Inc](https://www.hugeinc.com) - Food and Drinks
