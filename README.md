@@ -24,7 +24,7 @@ Encuéntranos en [Gitter](https://gitter.im/react-medellin/Lobby)!
 React Medellin es una organización sin ánimo de lucro. Todos los patrocinios son utilizados para cubrir costos de las charlas. Si quieres ser un patrocinador, ponte en contacto con nosotros [aquí](https://github.com/react-medellin/meetup#contacto).
 
 ## Código de conducta
-React Medellin se rige por el codigo de conducta de la [comunidad de Javascript](http://jsconf.com/codeofconduct.html). Si tienes algún problema puedes [contactarnos](https://github.com/react-medellin/meetup#contacto) y comentarnos la situación por la que estás pasando.
+Puedes encontrar nuestro código de conducta aquí [Código de conducta](CODE_OF_CONDUCT.md). Si tienes algún problema puedes [contactarnos](https://github.com/react-medellin/meetup#contacto) y comentarnos la situación por la que estás pasando.
 
 ## Cómo Contribuir?
 Encontraste un error en este repositorio? Quieres proponer una mejora? Te invitamos a que crees un Pull Request!
