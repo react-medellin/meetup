@@ -10,7 +10,7 @@ Repositorio oficial de React Medellin https://meetup.com/React-Medellin
 2. React 101 && Librería de componentes (2/2) - Julio (Detalles aquí)[https://github.com/react-medellin/meetup/blob/master/meetups/julio-2017.md]
 
 ## Estás interesado en dar una charla?
-Todas las personas son bienvenidas al momento de dar una charla **sin importa su experiencia**. Nos alegra que hayas tomado esta iniciativa! Crea un issue [aquí](https://github.com/react-medellin/meetup/issues) y nos pondremos en contacto contigo.
+Todas las personas son bienvenidas al momento de dar una charla **sin importa su experiencia**. Nos alegra que hayas tomado esta iniciativa! Crea un issue [aquí](https://github.com/react-medellin/meetup/issues) y nos pondremos en contacto contigo. Más información [aquí](CONTRIBUTING.md)
 
 ## Únete a nuestro chat!
 Encuéntranos en [Gitter](https://gitter.im/react-medellin/Lobby)!
@@ -24,7 +24,7 @@ React Medellin es una organización sin ánimo de lucro. Todos los patrocinios s
 Puedes encontrar nuestro código de conducta aquí [Código de conducta](CODE_OF_CONDUCT.md). Si tienes algún problema puedes [contactarnos](https://github.com/react-medellin/meetup#contacto) y comentarnos la situación por la que estás pasando.
 
 ## Cómo Contribuir?
-Encontraste un error en este repositorio? Quieres proponer una mejora? Te invitamos a que crees un Pull Request!
+Encontraste un error en este repositorio? Quieres proponer una mejora? Te invitamos a que crees un Pull Request!. Más información [aquí](CONTRIBUTING.md)
 
 ## Contribuidores
 
