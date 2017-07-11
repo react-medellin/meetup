@@ -6,8 +6,8 @@
 Repositorio oficial de React Medellin https://meetup.com/React-Medellin
 
 # Meetups
-1. Bienvenidos a React Medellín - Junio (Detalles aquí)[https://github.com/react-medellin/meetup/blob/master/meetups/junio-2017.md]
-2. React 101 && Librería de componentes (2/2) - Julio (Detalles aquí)[https://github.com/react-medellin/meetup/blob/master/meetups/julio-2017.md]
+1. Bienvenidos a React Medellín - Junio [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/junio-2017.md)
+2. React 101 && Librería de componentes (2/2) - Julio [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/julio-2017.md)
 
 ## Estás interesado en dar una charla?
 Todas las personas son bienvenidas al momento de dar una charla **sin importa su experiencia**. Nos alegra que hayas tomado esta iniciativa! Crea un issue [aquí](https://github.com/react-medellin/meetup/issues) y nos pondremos en contacto contigo. Más información [aquí](CONTRIBUTING.md)
