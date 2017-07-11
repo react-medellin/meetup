@@ -1,5 +1,16 @@
 # Primer Meetup - Jun 13 / 2017
 
+### Charlas
+- Introducción a React [Alejandro Benjumea](https://github.com/alejandrobenjumea)
+- Publiquemos una librería de componentes en React [Alejandro Ñañez](https://github.com/alejandronanez)
+- [Links de los temas mencionados](meetups/junio-2017.md)
+### Slides
+- http://slides.com/alejandrobenjumea/lets-talk-about-the-bases
+- https://slides.com/alejandronanez
+### Repositorios
+- https://github.com/react-medellin/react-jquery
+- https://github.com/react-medellin/components
+
 ## Links de interes
 - [Styled Components](https://styled-components.com)
 - [Rollup and Webpack](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
