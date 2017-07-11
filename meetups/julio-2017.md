@@ -5,7 +5,7 @@
 - [Librería de componentes (2/2)](https://docs.google.com/presentation/d/18pV6kbStP5pJSRIencEBl9Q1qe4n6_qkj2bgPDpAJ2g/edit?usp=sharing)
 - [Outro](https://docs.google.com/presentation/d/1RxMUjmkw1AyysvMSGiU0wXtBXJYFlmkZGYA8SPKSYj4/edit?usp=sharing)
 
-## Links de interes
+## Links de interés
 - https://egghead.io/technologies/react
 - https://facebook.github.io/react
 - https://es6.io
