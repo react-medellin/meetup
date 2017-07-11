@@ -1,5 +1,16 @@
 # Segundo Meetup - React 101 && Librería de components (2/2)
 
+## Slides
+- [Intro](https://docs.google.com/presentation/d/1BTIQgGP5y00um6nhd0hptBSCN2Y1JXh5XV_dh_K6kFE/edit?usp=sharing)
+- [Librería de componentes (2/2)](https://docs.google.com/presentation/d/18pV6kbStP5pJSRIencEBl9Q1qe4n6_qkj2bgPDpAJ2g/edit?usp=sharing)
+- [Outro](https://docs.google.com/presentation/d/1RxMUjmkw1AyysvMSGiU0wXtBXJYFlmkZGYA8SPKSYj4/edit?usp=sharing)
+
+## Links de interes
+- https://egghead.io/technologies/react
+- https://facebook.github.io/react
+- https://es6.io
+- https://www.udemy.com/user/sgslo/
+
 ## Repositorio Librería de components
 https://github.com/react-medellin/components
 
