@@ -11,6 +11,8 @@
 - https://es6.io
 - https://www.udemy.com/user/sgslo/
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- [React Story Book](https://storybook.js.org/)
+- [Circle CI](https://circleci.com/)
 
 ## Repositorio Librería de components
 https://github.com/react-medellin/components
