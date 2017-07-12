@@ -10,6 +10,7 @@
 - https://facebook.github.io/react
 - https://es6.io
 - https://www.udemy.com/user/sgslo/
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 ## Repositorio Librería de components
 https://github.com/react-medellin/components
