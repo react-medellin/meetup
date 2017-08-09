@@ -1,4 +1,4 @@
-# Segundo Meetup - React Fiber && next.js
+# Tercer Meetup - React Fiber && next.js
 
 ## Slides
 - [Intro](https://docs.google.com/presentation/d/17APcXF2DxiIFHXgWelgKMLLwBAqGnQoRnftyBE5Ec90/edit?usp=sharing)
