@@ -2,7 +2,7 @@
 
 ## Slides
 - [Intro](https://docs.google.com/presentation/d/17APcXF2DxiIFHXgWelgKMLLwBAqGnQoRnftyBE5Ec90/edit?usp=sharing)
-- [React Fiber](https://docs.google.com/presentation/d/1eKwRrEY408DJl_67RmJFnJWJsRRCpYh4tjZ_rhQ6ZR8/edit#slide=id.g33956c726ed9c2fd_13)
+- [React Fiber](https://docs.google.com/presentation/d/1eKwRrEY408DJl_67RmJFnJWJsRRCpYh4tjZ_rhQ6ZR8/edit?usp=sharing)
 - [next.js](https://add.me)
 
 ## Links de interés
