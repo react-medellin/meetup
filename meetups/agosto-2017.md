@@ -9,3 +9,7 @@
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 - [React 16 Beta](https://github.com/facebook/react/issues/10294)
 - [A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
+- [Basic NextApp](https://zeit.co/docs/examples/next)
+- [create-next-app](https://github.com/segmentio/create-next-app)
+- [Learn NextJS](https://learnnextjs.com/)
+
