@@ -9,6 +9,7 @@ Repositorio oficial de React Medellin https://meetup.com/React-Medellin
 1. Bienvenidos a React Medellín - Junio [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/junio-2017.md)
 2. React 101 && Librería de componentes (2/2) - Julio [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/julio-2017.md)
 3. React Fiber && Next.js - Agosto [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/agosto-2017.md)
+4. Estructuras de Aplicación && Pruebas Unitarias - Septiembre [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/septiembre-2017.md)
 
 ## Estás interesado en dar una charla?
 Todas las personas son bienvenidas al momento de dar una charla **sin importa su experiencia**. Nos alegra que hayas tomado esta iniciativa! Crea un issue [aquí](https://github.com/react-medellin/meetup/issues) y nos pondremos en contacto contigo. Más información [aquí](CONTRIBUTING.md)
