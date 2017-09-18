@@ -5,7 +5,7 @@
     "README.md"
   ],
   "imageSize": 100,
-  "commit": false,
+  "commit": true,
   "contributors": [
     {
       "login": "alejandronanez",
