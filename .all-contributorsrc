@@ -56,6 +56,16 @@
       "contributions": [
         "eventOrganizing"
       ]
+    },
+    {
+      "login": "shmesa22",
+      "name": "Simon Hoyos",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/23706543?v=3",
+      "profile": "https://www.linkedin.com/in/simonhoyos/",
+      "contributions": [
+        "eventOrganizing",
+        "talk"
+      ]
     }
   ]
 }
