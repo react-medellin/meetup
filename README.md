@@ -1,7 +1,7 @@
 # React Medellin
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Code of Conduct][coc-badge]](#código-de-conducta) [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/react-medellin/Lobby)
+[![Code of Conduct][coc-badge]](#código-de-conducta) [![Slack](https://img.shields.io/badge/chat-on%20slack-brightgreen.svg?style=flat-square)](https://reactmedellin.slack.com/)
 
 Repositorio oficial de React Medellin https://meetup.com/React-Medellin
 
