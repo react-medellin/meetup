@@ -13,6 +13,7 @@ Repositorio oficial de React Medellin https://meetup.com/React-Medellin
 5. React Router & High Order Components - Octubre [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/octubre-2017.md)
 6. TBD - Noviembre [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/noviembre-2017.md)
 7. Explora el mundo móvil con React Native - Febrero 2018 [Detalles aquí](https://www.meetup.com/es/React-Medellin/events/247292757/)
+8. Accesibilidad + React Native con Expo.io - Abril 2018 [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/abril-2018.md)
 
 ## Estás interesado en dar una charla?
 Todas las personas son bienvenidas al momento de dar una charla **sin importa su experiencia**. Nos alegra que hayas tomado esta iniciativa! Crea un issue [aquí](https://github.com/react-medellin/meetup/issues) y nos pondremos en contacto contigo. Más información [aquí](CONTRIBUTING.md)
