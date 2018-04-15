@@ -19,7 +19,7 @@ Repositorio oficial de React Medellin https://meetup.com/React-Medellin
 Todas las personas son bienvenidas al momento de dar una charla **sin importa su experiencia**. Nos alegra que hayas tomado esta iniciativa! Crea un issue [aquí](https://github.com/react-medellin/meetup/issues) y nos pondremos en contacto contigo. Más información [aquí](CONTRIBUTING.md)
 
 ## Únete a nuestro chat!
-Encuéntranos en [Slack](https://reactmedellin.slack.com)!
+Encuéntranos en [Slack](https://bit.ly/react-medellin-slack)!
 
 ## Sponsors
 1. [Huge Inc](https://www.hugeinc.com) - Food and Drinks
