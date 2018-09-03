@@ -21,7 +21,7 @@ Es entendible que la empresa que nos patrocine quiera mostrar por qué es un bue
 
 1. Puedes enviar a alguien de tu empresa a que de un workshop / charla
 2. Ayuda económica para souvenirs (camisetas) - aprox 200.000 COP
-3. Ayuda económica para cursos/suscripciones - 1 mes de suscripción a Teamtreehouse + Cursos de Udemy
+3. Ayuda económica para cursos/suscripciones - 1 mes de suscripción a Teamtreehouse + Cursos de Udemy (~50USD)
 
 ## Dónde puedo contactarlos
 
