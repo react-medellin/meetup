@@ -23,6 +23,7 @@ Encuéntranos en [Slack](https://bit.ly/react-medellin-slack)!
 
 ## Sponsors
 1. [Huge Inc](https://www.hugeinc.com) - Food and Drinks
+2. [Nodo Space](https://nodo.space/) - Spaces for meetings
 
 React Medellin es una organización sin ánimo de lucro. Todos los patrocinios son utilizados para cubrir costos de las charlas. Si quieres ser un patrocinador, ponte en contacto con nosotros [aquí](https://github.com/react-medellin/meetup#contacto).
 
