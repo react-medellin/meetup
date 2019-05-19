@@ -14,6 +14,7 @@ Repositorio oficial de React Medellin https://meetup.com/React-Medellin
 6. TBD - Noviembre [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/noviembre-2017.md)
 7. Explora el mundo móvil con React Native - Febrero 2018 [Detalles aquí](https://www.meetup.com/es/React-Medellin/events/247292757/)
 8. Accesibilidad + React Native con Expo.io - Abril 2018 [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/abril-2018.md)
+9. GraphQL y Apollo - Mayo 2019 [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/mayo-2019.md)
 
 ## Estás interesado en dar una charla?
 Todas las personas son bienvenidas al momento de dar una charla **sin importa su experiencia**. Nos alegra que hayas tomado esta iniciativa! Crea un issue [aquí](https://github.com/react-medellin/meetup/issues) y nos pondremos en contacto contigo. Más información [aquí](CONTRIBUTING.md)
@@ -23,7 +24,7 @@ Encuéntranos en [Slack](https://bit.ly/react-medellin-slack)!
 
 ## Sponsors
 1. [Huge Inc](https://www.hugeinc.com) - Food and Drinks
-2. [Nodo Space](https://nodo.space/) - Spaces for meetings
+2. [Ruta N](https://www.rutanmedellin.org/es/) - Spaces for meetings
 
 React Medellin es una organización sin ánimo de lucro. Todos los patrocinios son utilizados para cubrir costos de las charlas. Si quieres ser un patrocinador, ponte en contacto con nosotros [aquí](https://github.com/react-medellin/meetup#contacto).
 
