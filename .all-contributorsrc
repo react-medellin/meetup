@@ -58,12 +58,95 @@
       ]
     },
     {
-      "login": "shmesa22",
+      "login": "simonhoyos",
       "name": "Simon Hoyos",
       "avatar_url": "https://avatars0.githubusercontent.com/u/23706543?v=3",
       "profile": "https://www.linkedin.com/in/simonhoyos/",
       "contributions": [
         "eventOrganizing",
+        "talk"
+      ]
+    },
+    {
+      "login": "jmgr2996",
+      "name": "jmgr2996",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19862755?v=4",
+      "profile": "https://github.com/jmgr2996",
+      "contributions": [
+        "eventOrganizing",
+        "talk"
+      ]
+    },
+    {
+      "login": "facosta0787",
+      "name": "Felipe Acosta",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/17883219?v=4",
+      "profile": "http://felipeacosta.co",
+      "contributions": [
+        "eventOrganizing",
+        "talk"
+      ]
+    },
+    {
+      "login": "d4vsanchez",
+      "name": "David Sánchez",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2999604?v=4",
+      "profile": "https://twitter.com/d4vsanchez",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "ManuCastrillonM",
+      "name": "Manu Castrillon",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/10585946?v=4",
+      "profile": "https://www.manuela.dev/",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "elyalvarado",
+      "name": "Ely Alvarado",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/545352?v=4",
+      "profile": "https://github.com/elyalvarado",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "romelperez",
+      "name": "Romel Pérez",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1393135?v=4",
+      "profile": "https://RomelPerez.com",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "jonalvarezz",
+      "name": "Jonathan Alvarez",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2167222?v=4",
+      "profile": "http://jonalvarezz.com",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "gomezjuliana",
+      "name": "Juliana Gomez",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/21693619?v=4",
+      "profile": "http://www.gomezjuliana.com",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "camilomontoyau",
+      "name": "camilo montoya",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5333383?v=4",
+      "profile": "http://www.jc-montoya.com",
+      "contributions": [
         "talk"
       ]
     }
