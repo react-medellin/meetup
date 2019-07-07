@@ -15,6 +15,11 @@ Repositorio oficial de React Medellin https://meetup.com/React-Medellin
 7. Explora el mundo móvil con React Native - Febrero 2018 [Detalles aquí](https://www.meetup.com/es/React-Medellin/events/247292757/)
 8. Accesibilidad + React Native con Expo.io - Abril 2018 [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/abril-2018.md)
 9. GraphQL y Apollo - Mayo 2019 [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/mayo-2019.md)
+10. ReasonML y Server Side Render en React con ASP.Net Core - Junio 2019 [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/junio-2019)
+
+# Workshops
+
+1. ReasonML - Junio 2019 [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/workshops/junio-2019)
 
 ## Estás interesado en dar una charla?
 Todas las personas son bienvenidas al momento de dar una charla **sin importa su experiencia**. Nos alegra que hayas tomado esta iniciativa! Crea un issue [aquí](https://github.com/react-medellin/meetup/issues) y nos pondremos en contacto contigo. Más información [aquí](CONTRIBUTING.md)

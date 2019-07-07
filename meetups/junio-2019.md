@@ -2,7 +2,7 @@
 
 ## Charlas
 
-- ReasonML [Juan Mateo Garcia](https://github.com/alejandronanez)
+- ReasonML [Alejandro Ñañez](https://github.com/alejandronanez)
 - Server Side Render en React con ASP.Net Core [Hugo Rodríguez](https://github.com/devharf2310)
 
 ## ReasonML
