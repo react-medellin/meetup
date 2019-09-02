@@ -1,4 +1,4 @@
-# Primer Workshop - Jun 12 / 2019
+# Primer Workshop - Jun 29 / 2019
 
 ## Workshop
 

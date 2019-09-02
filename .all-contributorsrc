@@ -158,7 +158,26 @@
       "contributions": [
         "talk"
       ]
+    },
+    {
+      "login": "maoapp",
+      "name": "MaoApp",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/19539930?v=4",
+      "profile": "https://github.com/maoapp",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "williamegomezo",
+      "name": "William Gómez Ortega",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/33497419?v=4",
+      "profile": "http://williamegomezo.me",
+      "contributions": [
+        "talk"
+      ]
     }
   ],
-  "repoType": "github"
+  "repoType": "github",
+  "commitConvention": "none"
 }
