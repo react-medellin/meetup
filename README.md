@@ -32,8 +32,12 @@ Todas las personas son bienvenidas al momento de dar una charla **sin importa su
 Encuéntranos en [Slack](https://join.slack.com/t/reactmedellin/shared_invite/enQtNzA4MDE1MjY4MjQwLTMzMGI0OTRlMjE2OWY5ZmY4YjcwYTZhMjZiZjBjN2JkZjQ1MWQxYWRiMTJmOThhNmU3ZGYwZjU3NTJmZTA1MmY)!
 
 ## Sponsors
-1. [Huge Inc](https://www.hugeinc.com) - Food and Drinks
-2. [Ruta N](https://www.rutanmedellin.org/es/) - Spaces for meetings
+
+1. [Gorilla Logic](https://www.wolox.com.ar/) - Food and Drinks
+2. [Wollox](https://www.wolox.com.ar/) - Courses and Swags
+3. [Sancrisoft](https://www.sancrisoft.com/) - Courses and Venue
+4. [Impact Hub](https://impacthub.net/) - Venue
+5. [Ruta N](https://www.rutanmedellin.org/es/) - Venue
 
 React Medellin es una organización sin ánimo de lucro. Todos los patrocinios son utilizados para cubrir costos de las charlas. Si quieres ser un patrocinador, ponte en contacto con nosotros [aquí](https://github.com/react-medellin/meetup#contacto).
 
