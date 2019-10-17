@@ -1,5 +1,5 @@
 # React Medellin
-[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Code of Conduct][coc-badge]](#código-de-conducta) [![Slack](https://img.shields.io/badge/chat-on%20slack-brightgreen.svg?style=flat-square)](https://join.slack.com/t/reactmedellin/shared_invite/enQtNzA4MDE1MjY4MjQwLTMzMGI0OTRlMjE2OWY5ZmY4YjcwYTZhMjZiZjBjN2JkZjQ1MWQxYWRiMTJmOThhNmU3ZGYwZjU3NTJmZTA1MmY)
 
@@ -79,6 +79,8 @@ Gracias a todas las personas que han contribuido a React Medellin! ([emoji key](
     <td align="center"><a href="https://github.com/devharf2310"><img src="https://avatars0.githubusercontent.com/u/20269155?v=4" width="100px;" alt="Hugo Rodríguez"/><br /><sub><b>Hugo Rodríguez</b></sub></a><br /><a href="#talk-devharf2310" title="Talks">📢</a></td>
     <td align="center"><a href="https://github.com/maoapp"><img src="https://avatars1.githubusercontent.com/u/19539930?v=4" width="100px;" alt="MaoApp"/><br /><sub><b>MaoApp</b></sub></a><br /><a href="#talk-maoapp" title="Talks">📢</a></td>
     <td align="center"><a href="http://williamegomezo.me"><img src="https://avatars2.githubusercontent.com/u/33497419?v=4" width="100px;" alt="William Gómez Ortega"/><br /><sub><b>William Gómez Ortega</b></sub></a><br /><a href="#talk-williamegomezo" title="Talks">📢</a></td>
+    <td align="center"><a href="https://henryzarza.github.io/"><img src="https://avatars3.githubusercontent.com/u/28515670?v=4" width="100px;" alt="Henry Zarza"/><br /><sub><b>Henry Zarza</b></sub></a><br /><a href="#talk-henryzarza" title="Talks">📢</a></td>
+    <td align="center"><a href="https://github.com/carlosjgonza"><img src="https://avatars3.githubusercontent.com/u/5233063?v=4" width="100px;" alt="Carlos González"/><br /><sub><b>Carlos González</b></sub></a><br /><a href="#talk-carlosjgonza" title="Talks">📢</a></td>
   </tr>
 </table>
 
