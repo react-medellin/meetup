@@ -18,6 +18,7 @@ Repositorio oficial de React Medellin https://meetup.com/React-Medellin
 10. ReasonML y Server Side Render en React con ASP.Net Core - Junio 2019 [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/junio-2019.md)
 11. TypeScript y React - Julio 2019 [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/julio-2019.md)
 12. Server Side Rendering con NextJS y React sin Create React App - Agosto 2019 [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/agosto-2019.md)
+13. Iníciate con styled-components y Progresive Web App en React - Septiembre 2019 [Detalles aquí](https://github.com/react-medellin/meetup/blob/master/meetups/septiembre-2019.md)
 
 # Workshops
 
