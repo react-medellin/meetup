@@ -9,7 +9,7 @@
 
 ### Slides
 
-- [Slides](https://github.com/react-medellin/meetup/blob/meetup-10-june/meetups/slides/Reason%20-%20Intro.pdf)
+- [Slides](https://github.com/react-medellin/meetup/blob/master/meetups/slides/Reason%20-%20Intro.pdf)
 
 ## Server Side Render
 

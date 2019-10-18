@@ -176,6 +176,24 @@
       "contributions": [
         "talk"
       ]
+    },
+    {
+      "login": "henryzarza",
+      "name": "Henry Zarza",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/28515670?v=4",
+      "profile": "https://henryzarza.github.io/",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "carlosjgonza",
+      "name": "Carlos González",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5233063?v=4",
+      "profile": "https://github.com/carlosjgonza",
+      "contributions": [
+        "talk"
+      ]
     }
   ],
   "repoType": "github",
