@@ -4,4 +4,4 @@
 State management in React Applications
 
 ## Slides
-[some](/meetups/slides/State Management in React.pptx)
+[Slides](/meetups/slides/state-management.pptx)
