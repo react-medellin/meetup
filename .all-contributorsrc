@@ -213,6 +213,96 @@
         "question",
         "talk"
       ]
+    },
+    {
+      "login": "FelipeLujan",
+      "name": "Juan Felipe Lujan",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/34170261?v=4",
+      "profile": "http://www.felipelujan.com",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "alexcamachogz",
+      "name": "Alex Camacho",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/34493807?v=4",
+      "profile": "https://about.me/alexcamachogz/",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "AryRosvall",
+      "name": "Arantxa Rosas",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/24699675?v=4",
+      "profile": "http://aryrosvall.com",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "musartedev",
+      "name": "Mariangélica Useche",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/22798836?v=4",
+      "profile": "https://musarte.dev/",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "mafesernaarboleda",
+      "name": "Maria Fernanda Serna Arboleda",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/14205513?v=4",
+      "profile": "https://mafe.dev",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "iraidamercedes",
+      "name": "Iraida Mercedes ",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/43382355?v=4",
+      "profile": "https://github.com/iraidamercedes",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "ivandevp",
+      "name": "Ivan Medina",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/9284690?v=4",
+      "profile": "https://twitter.com/ivandevp",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "RamirezAlex",
+      "name": "Alex Ramirez",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1482473?v=4",
+      "profile": "http://ramirezalex.com/",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "Mteheran",
+      "name": "Miguel Teheran",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/3578356?v=4",
+      "profile": "https://mteheran.wordpress.com/",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "alejogs4",
+      "name": "Alejandro Garcia Serna",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/21073419?v=4",
+      "profile": "https://github.com/alejogs4",
+      "contributions": [
+        "talk"
+      ]
     }
   ],
   "repoType": "github",
