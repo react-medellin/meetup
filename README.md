@@ -30,7 +30,7 @@ Repositorio oficial de React Medellin https://meetup.com/React-Medellin
 Todas las personas son bienvenidas al momento de dar una charla **sin importa su experiencia**. Nos alegra que hayas tomado esta iniciativa! Crea un issue [aquí](https://github.com/react-medellin/meetup/issues) y nos pondremos en contacto contigo. Más información [aquí](CONTRIBUTING.md)
 
 ## Únete a nuestro chat!
-Encuéntranos en [Slack](https://join.slack.com/t/reactmedellin/shared_invite/enQtNzA4MDE1MjY4MjQwLTMzMGI0OTRlMjE2OWY5ZmY4YjcwYTZhMjZiZjBjN2JkZjQ1MWQxYWRiMTJmOThhNmU3ZGYwZjU3NTJmZTA1MmY)!
+Encuéntranos en [Discord](https://bit.ly/reactmde-discord)!
 
 ## Sponsors
 
